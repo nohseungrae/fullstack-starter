@@ -14,7 +14,7 @@
     "react-router-dom": "^5.1.2",
     "styled-components": "^4.4.1",
     "styled-reset": "^4.0.7",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "prop-types": "^15.7.2"
   },
   "scripts": {
